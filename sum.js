@@ -1,1 +1,1 @@
-console.log(1+2);
+console.log("The answer is " +1+2);
